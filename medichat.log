@@ -1,0 +1,5 @@
+time="2024-05-13T12:15:18+07:00" level=info msg="Starting Server..."
+time="2024-05-13T12:15:18+07:00" level=info msg="Server started at :8080"
+time="2024-05-13T12:15:52+07:00" level=info msg="request processed" latency="362.318µs" method=GET path=/api/v1/google/auth request_id=46bccd95-3972-404c-bb36-5cc586e2288f status_code=303
+time="2024-05-13T12:16:05+07:00" level=info msg="Shutting down server..."
+time="2024-05-13T12:16:05+07:00" level=info msg="Shutdown finished."
